@@ -39,7 +39,7 @@
     "unique-random-array": "~2.0.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.0.0-beta.54",
+    "@babel/cli": "^7.4.4",
     "@babel/core": "^7.0.0-beta.54",
     "@babel/plugin-external-helpers": "^7.0.0-beta.54",
     "@babel/plugin-transform-async-to-generator": "^7.0.0-beta.54",
